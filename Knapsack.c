@@ -47,7 +47,7 @@ void main()
  {
   scanf("%d",&val[i]);
  }
- printf("The minimum profit is %d\n",knapsack(w,wt,val,n));
+ printf("The maximum profit is %d\n",knapsack(w,wt,val,n));
 }
 
   
